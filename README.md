@@ -3,7 +3,7 @@
 <img align="center" src="./Banner.png" height="360em"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/wu-kathy)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)]()
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](www.kathyswu.com)
 
 - :smile: I am a creative and open-minded full-stack web developer who recently graduated from General Assembly's Software Engineering Immersive Bootcamp.
 
