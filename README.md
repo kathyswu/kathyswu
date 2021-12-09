@@ -1,10 +1,10 @@
 ### Hi there, I'm Kathy Wu 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=kathyswu&hide=stars,issues&count_private=true&show_icons=true&theme=solarized-light&bg_color=10,fffcdc,d9a7c7" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=kathyswu&hide=stars,issues&count_private=true&show_icons=true&theme=buefy&bg_color=10,fffcdc,d9a7c7" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathyswu&bg_color=50,FFFFFF,FFEFBA&theme=solarized-light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathyswu&bg_color=50,FFFFFF,FFEFBA&theme=buefy" />
 </a>
 
 <!--
