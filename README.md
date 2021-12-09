@@ -4,7 +4,7 @@
   <img align="top" height="180em" src="https://github-readme-stats.vercel.app/api?username=kathyswu&hide=stars,issues&count_private=true&show_icons=true&hide_border=true&theme=buefy&bg_color=10,fffcdc,d9a7c7" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathyswu&hide_border=true&layout=compact&bg_color=50,FFFFFF,FFEFBA&theme=buefy" />
+  <img align="top" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathyswu&hide_border=true&bg_color=50,FFFFFF,FFEFBA&theme=buefy" />
 </a>
 
 <!--
