@@ -1,6 +1,6 @@
 ### Hi there, I'm Kathy Wu 👋
 
-<img src="./Banner.png" height="360em"/>
+<img align="center" src="./Banner.png" height="360em"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/wu-kathy)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)]()
