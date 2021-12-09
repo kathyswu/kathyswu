@@ -1,17 +1,18 @@
 ### Hi there, I'm Kathy Wu 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=kathyswu&hide=stars,issues&count_private=true&show_icons=true&theme=buefy&bg_color=10,fffcdc,d9a7c7" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=kathyswu&hide=stars,issues&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathyswu&bg_color=50,FFFFFF,FFEFBA&theme=buefy" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathyswu" />
 </a>
 
 <!--
 **kathyswu/kathyswu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+&bg_color=50,FFFFFF,FFEFBA&theme=buefy
+&theme=buefy&bg_color=10,fffcdc,d9a7c7
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
