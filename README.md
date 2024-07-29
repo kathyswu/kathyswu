@@ -1,4 +1,4 @@
-### Hi there, I'm Kathy Wu (Levi) 👋
+### Hi there, I'm Kathy (Wu) Levi 👋
 
 <img align="center" src="./Banner.png" height="360em"/>
 
