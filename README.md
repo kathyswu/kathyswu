@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/wu-kathy)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.kathyswu.com)
 
-- :smile: I am a creative and open-minded full-stack web developer who graduated from General Assembly's Software Engineering Immersive Bootcamp in 2022. Since then, I have worked in developer, applications, and system support analyst roles.
+- :smile: I am a creative and open-minded full-stack web developer who graduated from General Assembly's Software Engineering Immersive Bootcamp in 2021. Since then, I have worked in developer, applications, and system support analyst roles.
 
 - :sparkles: I enjoy making fun and engaging web applications on both front-end and back-end.
   In terms of design, I am very versatile at making websites from a wide range of perspectives: ones that look modern and minimalistic, as well as others that incorporate bright and bold themes.
